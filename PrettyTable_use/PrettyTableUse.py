@@ -4,7 +4,7 @@
 
 '''
 __Author__:沂水寒城
-功能：  PrettyTable 模块使用
+功能：  PrettyTable 模块使用   
 '''
 
 import sqlite3

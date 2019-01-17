@@ -4,7 +4,7 @@ from __future__ import division
 
 '''
 __Author__:沂水寒城
-功能： python 基于滑动平均思想实现简易的缺失数据填充
+功能： python 基于滑动平均思想实现简易的缺失数据填充     
 '''
 
 
